@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
-This is a traveling assistant program that people can chose their destination layer by layer of continents, countries, and cities.
-It will have a button in JFrame that lead people to the google map website that contains more information.
-After they chose their city, people can decide whether they want to search in the same continent again.
+##### This is a traveling assistant program that people can chose their destination layer by layer of continents, countries, and cities.
+##### It will have a button in JFrame that lead people to the google map website that contains more information.
+##### After they chose their city, people can decide whether they want to search in the same continent again.
 ------------------------------------------------------------------------
 
 * PROJECT TITLE: Journey Finders
